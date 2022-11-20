@@ -15,8 +15,10 @@
 - 테스트 정보
 
 **Android**
+
 https://appdistribution.firebase.dev/i/69a73b665671f753
 
 **iOS**
+
 https://testflight.apple.com/join/qV7ZZK2m
 
