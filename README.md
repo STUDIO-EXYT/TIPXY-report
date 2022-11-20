@@ -13,12 +13,9 @@
   - 검색: 검색을 통해 매장이름을 검색하여 상세 정보를 확인 할 수 있습니다.
 
 - 테스트 정보
+  - **Android**<br/>
+    https://appdistribution.firebase.dev/i/69a73b665671f753
 
-**Android**
-
-https://appdistribution.firebase.dev/i/69a73b665671f753
-
-**iOS**
-
-https://testflight.apple.com/join/qV7ZZK2m
+  - **iOS**<br/>
+    https://testflight.apple.com/join/qV7ZZK2m
 
